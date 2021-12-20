@@ -1,2 +1,2 @@
-# interviewPrepEIP
-solved coding problems from EIP book
+# interviewPrep
+solved coding problems
